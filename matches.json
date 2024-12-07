@@ -1,37 +1,37 @@
 [
     {
-        "Team A": "Felicis",
-        "Team B": "Jesso",
-        "Score A": 100,
-        "Score B": 100,
+        "Team A": "Italy",
+        "Team B": "Spain",
+        "Score A": 0,
+        "Score B": 1,
+        "Date": "2024-06-14"
+    },
+    {
+        "Team A": "France",
+        "Team B": "Germany",
+        "Score A": 1,
+        "Score B": 2,
+        "Date": "2024-06-15"
+    },
+    {
+        "Team A": "England",
+        "Team B": "Portugal",
+        "Score A": 3,
+        "Score B": 3,
+        "Date": "2024-06-15"
+    },
+    {
+        "Team A": "Portugal",
+        "Team B": "Spain",
+        "Score A": 1,
+        "Score B": 1,
+        "Date": "2024-04-15"
+    },
+    {
+        "Team A": "Germany",
+        "Team B": "France",
+        "Score A": 1,
+        "Score B": 3,
         "Date": "2024-04-21"
-    },
-    {
-        "Team A": "Obama",
-        "Team B": "Trump",
-        "Score A": 100,
-        "Score B": 100,
-        "Date": "2024-04-26"
-    }
-    {
-        "Team A": "Evil Felicis",
-        "Team B": "Mecha Felicis",
-        "Score A": 100,
-        "Score B": 100,
-        "Date": "2024-04-26"
-    },
-    {
-        "Team A": "Jesso",
-        "Team B": "Python",
-        "Score A": 100,
-        "Score B": 100,
-        "Date": "2024-04-26"
-    },
-    {
-        "Team A": "Java",
-        "Team B": "C",
-        "Score A": 100,
-        "Score B": 100,
-        "Date": "2024-04-26"
     }
 ]
